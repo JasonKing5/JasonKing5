@@ -5,8 +5,8 @@
 -->
 
 
-- 🔭 I’m currently working on kedacom
-- 🌱 I’m currently learning HTML&CSS
+- 🔭 I’m currently working on PwC
+- 🌱 I’m currently learning Browser
 - 💬 Ask me about web front-end development
 - 📫 How to reach me: wangsanmu5@163.com
 - 😄 Pronouns: Be serious and willing to explore
