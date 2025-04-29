@@ -5,10 +5,10 @@
 -->
 
 
-- 🔭 I’m currently working on PwC
-- 🌱 I’m currently learning Browser
-- 💬 Ask me about web front-end development
-- 📫 How to reach me: wangsanmu5@163.com
+- 🔭 I’m currently working on SAIS
+- 🌱 I’m currently learning Browser, Next.js, Nest.js
+- 💬 Ask me about web full-stack development
+- 📫 How to reach me: passerbyking@gmail.com
 - 😄 Pronouns: Be serious and willing to explore
 - ⚡ Fun fact: GTA5
 
