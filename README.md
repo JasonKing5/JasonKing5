@@ -1,47 +1,46 @@
-### 👋 Hi, I’m Jason
+<div align="center">
+  <h1>Hi, I'm Jason 👋</h1>
+  <p><b>Full-Stack Web Developer @ CODEFE | Architecting the CODEFE Matrix</b></p>
+  
+  <p>Passionate about building scalable, intelligent, and elegant web experiences.</p>
 
-🌐 Full-stack Web Developer | Passionate about building scalable, intelligent, and elegant web experiences.
+  <p>
+    <a href="https://codefe.cn"><img alt="Website" src="https://img.shields.io/badge/Website-codefe.cn-000000?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+    <a href="mailto:passerbyking@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-passerbyking@gmail.com-000000?style=flat-square&logo=gmail&logoColor=white" /></a>
+  </p>
+</div>
 
----
+<br/>
 
-🚀 **Current Focus**
-- 🧠 Deepening understanding of **Browser internals**
-- 🔧 Exploring **Next.js**, **Nest.js**, and system architecture
-- 🛠️ Working at **SAIS**, an AI research company focused on scientific intelligence and productivity tools
+### 🔭 Current Focus & Work
 
----
+- 🏢 Working at **SAIS**, an AI research company focused on scientific intelligence and productivity tools.
+- 🚀 Building the **[CODEFE](https://codefe.cn)** ecosystem, a matrix of modern, developer-friendly applications (e.g.,[Wealth Note](https://wealth.codefe.cn)).
+- 🧠 Deepening understanding of **Browser internals**, **System Architecture**, and exploring advanced capabilities of **Next.js** & **Nest.js**.
 
-🧩 **Tech Stack**
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
-![Nest.js](https://img.shields.io/badge/-Nest.js-red?style=flat-square&logo=nestjs)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)
+<br/>
 
----
+### 💻 Tech Stack
 
-💬 **Ask Me About**
-- Full-stack web development (React / Node.js / PostgreSQL)
-- Clean architecture & scalable systems
-- Developer tools and productivity hacks
+<div align="center">
+  <!-- 替换为你实际使用的技术栈，统一为极简的圆角图标 -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,nestjs,postgres,supabase,docker&perline=10" alt="Tech Stack" />
+  </a>
+</div>
 
----
+<br/>
 
-📫 **Let’s Connect**
-- Email: [passerbyking@gmail.com](mailto:passerbyking@gmail.com)
-- GitHub: [JasonKing5](https://github.com/JasonKing5)
-- WebSite: [codefe.cn](https://codefe.cn/)
+### 💬 Let's Chat & Explore
 
----
+- **Ask me about:** Clean architecture, scalable systems, full-stack development, and developer productivity hacks.
+- **Fun fact:** I love reverse-engineering games like *GTA V* and exploring how complex systems work under the hood! 🕵🏻‍♂️🎮
 
-✨ **Fun Fact**
-> I love reverse-engineering games like GTA5 and exploring how systems work under the hood.
+<br/>
 
----
+### 📊 GitHub Stats
 
-📈 **GitHub Stats**
-
-[![Jason's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JasonKing5&show_icons=true&theme=dracula)](https://github.com/JasonKing5)
+<div align="center">
+  <!-- 将主题修改为透明无边框，完美融入极简背景，色彩采用了克制的科技蓝 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=JasonKing5&show_icons=true&theme=transparent&hide_border=true&title_color=2563eb&icon_color=2563eb&text_color=777777" alt="Jason's GitHub Stats" />
+</div>
