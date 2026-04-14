@@ -37,10 +37,3 @@
 - **Fun fact:** I love reverse-engineering games like *GTA V* and exploring how complex systems work under the hood! 🕵🏻‍♂️🎮
 
 <br/>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <!-- 将主题修改为透明无边框，完美融入极简背景，色彩采用了克制的科技蓝 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=JasonKing5&show_icons=true&theme=transparent&hide_border=true&title_color=2563eb&icon_color=2563eb&text_color=777777" alt="Jason's GitHub Stats" />
-</div>
